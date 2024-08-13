@@ -1,2 +1,4 @@
 192.168.1.1 - johnnah [12/Aug/2024:19:52:46 ] "GET /index.html HTTP/1.1" 200 1234
 192.168.1.1 - johnnah [12/Aug/2024:19:53:39 ] "GET /index.html HTTP/1.1" 200 1234
+192.168.1.1 - johnnah [12/Aug/2024:19:52:46 ] "GET /index.html HTTP/1.1" 200 1234
+192.168.1.1 - johnnah [12/Aug/2024:19:53:39 ] "GET /index.html HTTP/1.1" 200 1234
